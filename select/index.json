@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "cu",
+  "base_artist": "Peterparker69",
+  "createdAt": "2026-02-11T16:49:09.263642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Triad: St.Patrick / Cu Chulainn / Oisin",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/01_Triad__St.Patrick___Cu_Chulainn___Oisin_Enya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Triad (St. Patrick, Cu Chulain, Osin)",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/02_Triad_(St._Patrick,_Cu_Chulain,_Osin)_Enya.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Triad-St.Patrick-Cu Chulain- O",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/03_Triad-St.Patrick-Cu_Chulain-_O_Enya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Triad: St. Patrick \u0000 Cu Chulainn \u0000 Oisin",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/04_Triad__St._Patrick_\u0000_Cu_Chulainn_\u0000_Oisin_Enya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Copper (CU)",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/05_Copper_(CU)_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cu Cu Ru Cu Cu Paloma - Live",
+      "artist": "Harry Belafonte",
+      "has_synced": true,
+      "path": "select/06_Cu_Cu_Ru_Cu_Cu_Paloma_-_Live_Harry_Belafonte.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cu Chulain",
+      "artist": "Therion",
+      "has_synced": false,
+      "path": "select/07_Cu_Chulain_Therion.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pour Un Ã©cu",
+      "artist": "Elyose",
+      "has_synced": false,
+      "path": "select/08_Pour_Un_Ã©cu_Elyose.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "El Cu Cuy",
+      "artist": "Coal Chamber",
+      "has_synced": true,
+      "path": "select/09_El_Cu_Cuy_Coal_Chamber.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "El Cu Cuy - Man-To-Monster Mix",
+      "artist": "Coal Chamber",
+      "has_synced": true,
+      "path": "select/10_El_Cu_Cuy_-_Man-To-Monster_Mix_Coal_Chamber.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "El Cu Cuy (Man-To-Monster mix)",
+      "artist": "Coal Chamber",
+      "has_synced": true,
+      "path": "select/11_El_Cu_Cuy_(Man-To-Monster_mix)_Coal_Chamber.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Il culo del mondo (O' cu' do mundo)",
+      "artist": "Fiorella Mannoia",
+      "has_synced": true,
+      "path": "select/12_Il_culo_del_mondo_(O'_cu'_do_mundo)_Fiorella_Mannoia.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Resta Cu' Mme",
+      "artist": "Marcella",
+      "has_synced": true,
+      "path": "select/13_Resta_Cu'_Mme_Marcella.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Resta cu' 'mme",
+      "artist": "Marcella Bella",
+      "has_synced": true,
+      "path": "select/14_Resta_cu'_'mme_Marcella_Bella.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Resta resta cu mme (Live)",
+      "artist": "Pino Daniele",
+      "has_synced": true,
+      "path": "select/15_Resta_resta_cu_mme_(Live)_Pino_Daniele.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Resta Resta Cu Mme",
+      "artist": "Pino Daniele",
+      "has_synced": false,
+      "path": "select/16_Resta_Resta_Cu_Mme_Pino_Daniele.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Triad- St. Patrick, Cu Chulainn, Oisin",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/17_Triad-_St._Patrick,_Cu_Chulainn,_Oisin_Enya.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Resta....Resta Cu Mme",
+      "artist": "Pino Daniele",
+      "has_synced": true,
+      "path": "select/18_Resta....Resta_Cu_Mme_Pino_Daniele.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Cú Chulainn",
+      "artist": "Therion",
+      "has_synced": true,
+      "path": "select/19_Cú_Chulainn_Therion.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "cu",
+      "artist": "Peterparker69",
+      "has_synced": false,
+      "path": "select/pl_01_cu_Peterparker69.txt"
+    }
+  ]
+}
